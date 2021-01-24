@@ -28,11 +28,11 @@ The directory *WORKPATH/Sequences_types* contains specific species list files.
 # Data
 
 #### Reference Data
-For convenience, you will find all the reference data of our benchmark study in the website: [G3PO](http://www.lbgi.fr/~scalzitti/G3PO/) or [G3PO-Zenodo](https://zenodo.org/record/4081640#.X4SJv9AzZPY).
+For convenience, you will find all the reference data of the benchmark study in a compressed file in this repository named __References.tar.gz__
 Download and extract the file __References.tar.gz__ in the root directory */Benchmark_study*.  
 
 #### Output Predictions
-You will find the output predictions of each predictor in the website: [G3PO](http://www.lbgi.fr/~scalzitti/G3PO/). 
+You will find the output predictions of each predictor in this repository as well in a compressed file named __Predictions.tar.gz__
 Download and extract the file __Predictions.tar.gz__ in the root directory */Benchmark_study*
 
 

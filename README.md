@@ -137,7 +137,7 @@ To avoid errors in the gene prediction Machine Learning algorithm, use the scrip
 - make sure to adjust config file for the right files being chosen, read about parameters in the README.md file provided from the repository made from RIT
 - be patient and try to connect an ethernet cable if using a laptop to shorten the runtime of the DBSCAN machine learning algorithm, optimization from this will be added on later
 
-<h1>Current Look into DBSCAN Outputs</h1>
+# Current Look into DBSCAN Outputs
+*3-D Clustering in action
 
-<h2>3-D Clustering in action</h2>
-![](image/DBSCAN_1stTrial.png)
+![](/image/DBSCAN_1stTrial.png)

@@ -31,18 +31,14 @@ The directory *WORKPATH/Sequences_types* contains specific species list files.
 For convenience, you will find all the reference data of our benchmark study in the website: [G3PO](http://www.lbgi.fr/~scalzitti/G3PO/) or [G3PO-Zenodo](https://zenodo.org/record/4081640#.X4SJv9AzZPY).
 Download and extract the file __References.tar.gz__ in the root directory */Benchmark_study*.  
 
-#### Output Predictions
-You will find the output predictions of each predictor in the website: [G3PO](http://www.lbgi.fr/~scalzitti/G3PO/). 
-Download and extract the file __Predictions.tar.gz__ in the root directory */Benchmark_study*
-
 
 
 # Step 1 - Predictions using the "program_name" to be tested
 
 * First, download and install gene predictors (Augustus, Genscan, GeneID, GlimmerHMM or Snap). 
     <ol>
-    	<li>[Augustus](http://augustus.gobics.de/binaries/)</li>
-    	<li>[Genscan](http://hollywood.mit.edu/license.html)</li>
+    	<li>[Augustus](https://github.com/Gaius-Augustus/Augustus.git)</li>
+    	<li>[Genscan](https://github.com/bioinformaticspcj/Run_Genscan.git)</li>
     	<li>[GeneID](https://genome.crg.cat/software/geneid/index.html#code)</li>
     	<li>[GlimmerHMM](https://ccb.jhu.edu/software/glimmerhmm/)</li>
     	<li>[Snap](https://github.com/KorfLab/SNAP)</li>

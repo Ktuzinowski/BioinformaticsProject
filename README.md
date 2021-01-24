@@ -121,4 +121,11 @@ Next we aligned the predicted and reference protein sequences with Mafft version
 ```
 
 After alignment, we calculate the % identity between the reference protein sequence and a predicted protein sequence. All results are stored in the file WORKPATH/Resultats/Proteins/{X}Kb/PROGRAM_NAME\_%similarity.csv and ./Results/Proteins/XXKb/\(soft\)\_\_best_%similarity.csv. The last file contains the resultats with the best prediction
+
+# Step 7 - Cleaning .csv files for DBSCAN Use
+To clean the gene prediction programs, use the Jupyter Notebook found in to clean the files produced by running 'compar_lvl_nuc.py'. 
+
+After taking in these files, the Jupyter Notebook will also iterate over the files and create one needed to run the DBSCAN software in it's totality.
+
+To avoid errors in the gene prediction Machine Learning algorithm, use the scripts found in this repository to run the example plzwork.csv file along with DBSCAN, average run time will be about 1-1.5 hours. Remember to change line 12 of main.py to /plzwork.csv from the root directory.
 	

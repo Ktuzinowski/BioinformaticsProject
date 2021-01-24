@@ -125,7 +125,7 @@ After alignment, we calculate the % identity between the reference protein seque
 # Step 7 - Cleaning .csv files for DBSCAN Use
 To clean the gene prediction programs, use the Jupyter Notebook found in to clean the files produced by running 'compar_lvl_nuc.py'. 
 
-After taking in these files, the Jupyter Notebook will also iterate over the files and create one needed to run the DBSCAN software in it's totality.
+After taking in these files, the Jupyter Notebook will also iterate over the files and create one needed to run the DBSCAN software in it's totality, this can be found in the DBSCAN folder, along with outside of the normal folder, if you want to use "os.chdir('')" to the files in question that you want to analyze.
 
 To avoid errors in the gene prediction Machine Learning algorithm, use the scripts found in this repository to run the example plzwork.csv file along with DBSCAN, average run time will be about 1-1.5 hours. Remember to change line 12 of main.py to /plzwork.csv from the root directory.
 	

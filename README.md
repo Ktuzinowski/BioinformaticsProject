@@ -140,6 +140,6 @@ To avoid errors in the gene prediction Machine Learning algorithm, use the scrip
 <h1>Current Look into DBSCAN Outputs</h1>
 
 <h2>3-D Clustering in action</h2>
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![DBSCAN](/images/logo.png)
+Format: ![Alt Text](https://imgur.com/a/wQFxvqs)
 

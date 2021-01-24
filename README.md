@@ -129,3 +129,6 @@ After taking in these files, the Jupyter Notebook will also iterate over the fil
 
 To avoid errors in the gene prediction Machine Learning algorithm, use the scripts found in this repository to run the example plzwork.csv file along with DBSCAN, average run time will be about 1-1.5 hours. Remember to change line 12 of main.py to /plzwork.csv from the root directory.
 	
+# Step 8 - Running main.py
+- make sure to adjust config file for the right files being chosen, read about parameters in the README.md file provided from the repository made from RIT
+- be patient and try to connect an ethernet cable if using a laptop to shorten the runtime of the DBSCAN machine learning algorithm, optimization from this will be added on later

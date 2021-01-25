@@ -7,10 +7,10 @@ G3PO (Gene and Protein Prediction PrOgrams) Benchmark was designed to represent 
 
 # Project
 
-Download the gitlab project [here](http://git.lbgi.fr/scalzitti/Benchmark_study) or:
+Download the gitlab project [here](https://github.com/Ktuzinowski/BioinformaticsProject-Scalzitti-Implementation.git) or:
 
 ```bash
-git clone http://git.lbgi.fr/scalzitti/Benchmark_study.git
+git clone https://github.com/Ktuzinowski/BioinformaticsProject-Scalzitti-Implementation.git
 ```
 
 The new created directory called */Benchmark_study* is your root directory WORKPATH.

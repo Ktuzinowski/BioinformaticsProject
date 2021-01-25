@@ -56,7 +56,7 @@ The files models.csv (in *WORKPATH/Models/* directory) contain the codename of t
 Command lines:
 ```bash
 	Augustus --species=Specie --softmasking=1 --gff3=off File_in.fasta > augustus_File_out.fasta
-	Genscan Specie File_in.fasta > genscan_File_out.fasta
+	GeneMark Specie File_in.fasta > genemark_File_out.fasta
 	Geneid -A -P param/new_param/Specie File_in.fasta > geneid_File_out.fasta
 	Glimmerhmm_linux_x86_64 File_in.fasta -d trained_dir/Specie -g > glimmer_File_out.fasta
 	Snap -gff -quiet -lcmask HMM/Specie File_in.fasta --a protein_dir/File_in.fasta > snap_File_out.fasta

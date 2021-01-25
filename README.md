@@ -42,7 +42,7 @@ Please feel free to email me at kevinnewtu@outlook.com for a compressed .tar.gz 
 * First, download and install gene predictors (Augustus, Genscan, GeneID, GlimmerHMM or Snap). 
     <ol>
     	<li>[Augustus](https://github.com/Gaius-Augustus/Augustus.git)</li>
-    	<li>[Genscan](https://github.com/bioinformaticspcj/Run_Genscan.git)</li>
+    	<li>[GeneMark](http://topaz.gatech.edu/GeneMark/license_download.cgi)</li>
     	<li>[GeneID](https://genome.crg.cat/software/geneid/index.html#code)</li>
     	<li>[GlimmerHMM](https://ccb.jhu.edu/software/glimmerhmm/)</li>
     	<li>[Snap](https://github.com/KorfLab/SNAP)</li>

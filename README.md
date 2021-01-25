@@ -138,6 +138,5 @@ To avoid errors in the gene prediction Machine Learning algorithm, use the scrip
 - be patient and try to connect an ethernet cable if using a laptop to shorten the runtime of the DBSCAN machine learning algorithm, optimization from this will be added on later
 
 # Current Look into DBSCAN Outputs
-*3-D Clustering in action
 
 ![](/image/DBSCAN_1stTrial.png)
